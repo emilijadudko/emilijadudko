@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Emilija a Master's student based in England.
+
+If an idea pops into my head chances are i'll follow through till the end.
+
+
+Fun Facts:
+- I own a motorcycle
+- I prefer tea over coffee
+- My favourite anime is Trigun
+- Hobbies: Anime, Rebuilding motorcycle, Gym
+
 <!--
 **emilijadudko/emilijadudko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
