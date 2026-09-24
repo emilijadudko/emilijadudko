@@ -10,7 +10,7 @@ Fun Facts:
 - I own a motorcycle
 - I prefer tea over coffee
 - I can speak 4 languages
-- Hobbies: Anime, Rebuilding motorcycle, Gym
+- Hobbies: Anime, Rebuilding motorcycles, Gym
 
 <!--
 **emilijadudko/emilijadudko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
