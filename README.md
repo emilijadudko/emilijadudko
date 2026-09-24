@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Emilija a Master's student based in England.
+I'm Emilija, a Master's student currently studying in England.
 
 If an idea pops into my head chances are i'll follow through till the end.
 And the project i'm most proud of is my pinned Q-learning Snake project :)
@@ -9,7 +9,7 @@ And the project i'm most proud of is my pinned Q-learning Snake project :)
 Fun Facts:
 - I own a motorcycle
 - I prefer tea over coffee
-- My favourite anime is Trigun
+- I can speak 4 languages
 - Hobbies: Anime, Rebuilding motorcycle, Gym
 
 <!--
