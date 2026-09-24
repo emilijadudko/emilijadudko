@@ -3,7 +3,7 @@
 I'm Emilija, a Master's student currently studying in England.
 
 If an idea pops into my head chances are i'll follow through till the end.
-And the project i'm most proud of is my pinned Q-learning Snake project :)
+And the project i'm most proud of is my pinned motorcycle garage, but its a work in progress currently :)
 
 
 Fun Facts:
